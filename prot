@@ -1,0 +1,13 @@
+function startLearning() {
+  alert("Welcome to Pathly! Your personalized learning journey will begin here.");
+}
+
+function explore() {
+  document.getElementById("features").scrollIntoView({
+    behavior: "smooth"
+  });
+}
+
+function login() {
+  alert("Login / Sign Up page coming soon!");
+}
